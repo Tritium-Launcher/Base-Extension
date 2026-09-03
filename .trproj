@@ -1,0 +1,6 @@
+type = "extension"
+name = "base-extension"
+icon = "extension.svg"
+schemaVersion = 1
+metaPath = "trextension.toml"
+cloneable = true
