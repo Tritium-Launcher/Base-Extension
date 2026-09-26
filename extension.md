@@ -1,6 +1,6 @@
 ---
 gallery:
-  - icon.svg
+  - gallery1.png
 ---
 
 # My Extension
